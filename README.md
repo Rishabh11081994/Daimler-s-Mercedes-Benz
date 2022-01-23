@@ -7,7 +7,7 @@ Daimler is interested to deal the curse of dimensionality and reduce the time th
 
 
 
-Approach: To solve the above businnes problem, many algorithms have been tried to estimate the accurate testing time. First the data was studied, preprocessed, visualized and modelled. Several models were formed and deleted when the performance was not upto the mark, the model was compared based of root mean square, mean absolute percentage error and r2 score. 
+Approach: To solve the above businnes problem, many algorithms have been tried to estimate the accurate testing time. The data was studied, preprocessed, visualized and modelled. Several models were formed and deleted when the performance was not upto the mark, the model was compared based on root mean square, mean absolute percentage error and r2 score. 
 
 Conclusion:
 
